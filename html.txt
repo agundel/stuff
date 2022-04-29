@@ -1,0 +1,26 @@
+html boilerplate:
+
+<!DOCTYPE>
+<html lang="en">
+	<head>		
+		<meta charset="UTF-8">
+		<title>Title</title>
+	</head>
+
+	<body>
+	</body>
+</html>
+
+<!-- html comment -->		Comment
+
+<h1></h1>			biggest headding					in body			
+<h2></h2>		
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>			smallest headding
+
+
+<p></p>				paragraph							in body
+<strong></strong>	bold text with higher importance	in body or paragraph
+<em></em>			emphasized test						in body or paragraph
