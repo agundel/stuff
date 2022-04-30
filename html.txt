@@ -1,6 +1,6 @@
 html boilerplate:
 
-<!DOCTYPE>
+<!DOCTYPE html>
 <html lang="en">
 	<head>		
 		<meta charset="UTF-8">
@@ -24,3 +24,9 @@ html boilerplate:
 <p></p>				paragraph							in body
 <strong></strong>	bold text with higher importance	in body or paragraph
 <em></em>			emphasized test						in body or paragraph
+
+<ul>
+
+
+
+
